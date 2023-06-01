@@ -1,0 +1,18 @@
+Dear, lecturer or assistant
+
+
+Dikarenakan program tersebut menggunakan perintah import
+untuk data hidrograf, pasang surut, dan data geometri
+maka hendaknya dapat diubah dulu coding untuk import sesuai dengan
+directory yang digunakan.
+
+info tambahan,
+file: ModelBanjir_McM.m merupakan program untuk tampilan berjalan tiap waktu (pilih salah satu Q)
+gile: ModelBanjir_McM_Hid_2_25 adalah tampilan gabungan untuk Q2 dan Q 25
+
+Terimakasih
+
+Best Regards
+
+Iqbal Ikromi
+25021042
